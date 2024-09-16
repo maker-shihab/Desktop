@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+img {
+  max-width: 300px;
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+.card-title {
+  font-weight: 700;
+}
+.card-text-price {
+  font-size: 18px;
+  font-weight: 600;
+  color: rgba(0, 128, 0, 0.726);
+}
